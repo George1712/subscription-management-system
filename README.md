@@ -228,9 +228,3 @@ The application uses SQLite database (`data/subscription_manager.db`) for data p
 5. Submit a pull request
 
   
-
-## License
-
-  
-
-This project is open source and available under the MIT License.
