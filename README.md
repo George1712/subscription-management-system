@@ -108,7 +108,7 @@ SubscriptionManagementSystem/
 
 ```bash
 
-git clone <[your-repo-url](https://github.com/George1712/subscription-management-system)>
+git clone https://github.com/George1712/subscription-management-system
 
 cd SubscriptionManagementSystem
 
